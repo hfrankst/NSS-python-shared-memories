@@ -12,7 +12,7 @@ class Margaret:
 			pass
 
 
-	def serialize_dict(self):
+	def serialize_dict(self): 
 		"""
 		This method will serialize or convert the data into a format that is easier for the computer to transfer around
 		""" 
