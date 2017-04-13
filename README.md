@@ -42,4 +42,3 @@ touch margaret.py
 ```bash
 python mary.py "Hi, I'm Mary"
 ```
-# NSS-python-shared-memories
